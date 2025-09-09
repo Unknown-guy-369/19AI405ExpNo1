@@ -1,7 +1,7 @@
 # ExpNo 1 : Developing AI Agent with PEAS Description  
 
-### Name: Saravanan N  
-### Register Number/Staff Id: TSML006  
+### Name:   Abishek Priyan M 
+### Register Number: 212224240004   
 
 ---
 

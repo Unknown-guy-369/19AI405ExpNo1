@@ -4,6 +4,7 @@ class HealthMonitoringAgent:
     def __init__(self, patient_data):
         self.patient_data = patient_data
 
+
     def monitor_health(self):
         while True:
             current_health_state = self.sensors.get_health_state()
